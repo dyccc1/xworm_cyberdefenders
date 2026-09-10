@@ -3,7 +3,7 @@
 - **Platform:** CyberDefenders
 - **Difficulty:** Medium
 - **Time Spent:** 
-- **Date:** 09/09/26
+- **Date:** 
   
 ## Objective:
 - An employee downloaded a suspicious file that is triggering unusual system behavior. the objetive is to analyze the file and uncover its behavior and mechanisms.
